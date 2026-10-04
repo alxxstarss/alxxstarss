@@ -1,4 +1,4 @@
-# Hi, I'm Mehdi 👋
+# Hi, I'm Mehdi 
 
 
 I'm a computer science student currently pursuing an engineering degree in **Cybersecurity at EIJV**.
