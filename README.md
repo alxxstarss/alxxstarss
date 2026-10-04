@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Mehdi 👋
 
-<!--
-**alxxstarss/alxxstarss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a computer science student currently pursuing an engineering degree in **Cybersecurity at EIJV**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ I'm particularly interested in:
+
+* Cybersecurity
+* Network & Infrastructure Security
+* System Administration
+* Cryptography
+* Offensive & Defensive Security
+
+💻 **Technologies & Languages**
+
+* **C**
+* **Java**
+* **PHP**
+* **SQL / Oracle**
+* **Bash / Linux**
+
+
+🚀 **What I'm currently working on**
+
+I'm developing academic and personal projects related to **programming, databases, Linux, networks and cybersecurity**, while continuously improving my technical skills.
+
+📂 On this profile, you'll find projects related to:
+
+* Software development
+* Database design & SQL
+* Linux & Bash
+* Cybersecurity
+* Algorithms & data structures
+* Web development
+
+Feel free to explore my repositories and projects!
