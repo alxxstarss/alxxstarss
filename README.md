@@ -3,7 +3,7 @@
 
 I'm a computer science student currently pursuing an engineering degree in **Cybersecurity at EIJV**.
 
- I'm particularly interested in:
+ I'm particularly interested in cybersecurity :
 
 * Cybersecurity
 * Network & Infrastructure Security
